@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1606204884 source:h:\squishy\coding\c project\quicksort in a linked\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"debugmalloc.h"
+
+1604661320 h:\squishy\coding\c project\quicksort in a linked\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+

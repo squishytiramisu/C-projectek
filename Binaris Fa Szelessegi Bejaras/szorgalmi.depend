@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1606152656 source:h:\squishy\coding\c project\szorgalmi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+
+1604661320 h:\squishy\coding\c project\szorgalmi\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+

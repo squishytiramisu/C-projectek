@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1606669023 source:h:\squishy\coding\c project\trie fa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1604661320 h:\squishy\coding\c project\trie fa\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
