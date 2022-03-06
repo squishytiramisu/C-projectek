@@ -3,7 +3,7 @@
 #include <stdbool.h>
 #include <string.h>
 
-/* Time: 201 perc
+/* Time: 200 perc
 *  Tanulsagok: 1. A menu vezerlese stringekkel az szamomra nagyon uj, de vegre valahol hasznalhattam a hasht!
 *              2. A rekurzio segedtombbel es adat atadassal sosem hasznaltam meg, de mashogy szerintem ezt nem lehetett megcsinalni.
 *              3. A fakrol valo perspektivam megvaltozott! Eddig megrogzodesem volt hogy egy fanak max 3 gyereke lehet! Kulonben nincs ertelme de hat ez annyira hamis amennyire egy allitas hamis lehet
