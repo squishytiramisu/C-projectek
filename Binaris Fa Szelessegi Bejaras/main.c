@@ -3,7 +3,6 @@
 #include "debugmalloc.h"
 
 // munkaido : 120+130+30 perc
-//Ezt a strazsa dolgot nagyon nem ertettem, de igy mar teljesen ertheto a dolog, nagyon sokat tanultam ebbol a szorgalmibol
 typedef struct Varo {
     struct BinarisFa *ptr;
     struct Varo*kov;
